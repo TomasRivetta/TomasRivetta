@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Tomas Rivetta</h1>
+<h1 align="center">Console.log("👋 Yo soy Tomas Rivetta")</h1>
 <h3 align="center">Full Stack Developer en formacion👨‍💻</h3>
 
 <h3 align="left">Connect with me:</h3>
