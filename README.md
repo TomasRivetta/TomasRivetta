@@ -1,3 +1,5 @@
+![me](https://user-images.githubusercontent.com/109299616/189721544-425bfbcc-ae4a-44dc-9d6f-3a598596d664.png)
+
 <h1 align="center">Console.log("👋 Yo soy Tomas Rivetta")</h1>
 <h3 align="center">Full Stack Developer en formacion👨‍💻</h3>
 
