@@ -1,4 +1,4 @@
-![me](https://user-images.githubusercontent.com/109299616/195920256-2841fab3-b050-4bcb-9373-86e068cd6d96.png)
+![me](https://github.com/TomasRivetta/TomasRivetta/assets/109299616/7b4eea57-0e3b-4f3f-a57f-ab430fb38943)
 
 <h1 align="center">Console.log("👋 Hola Mundo 👨‍💻")</h1>
 <h3 align="center">Full Stack Developer👨‍💻</h3>
@@ -34,15 +34,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
-
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasRivetta&show_icons=true&locale=en&layout=compact" alt="tomasrivetta" /></p>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TomasRivetta&style=for-the-badge&label=Vistas%20Perfil&color=0e75b6" alt="tomasrivetta" /></p>
-
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomasRivetta&show_icons=true&locale=en" alt="tomasrivetta" /></p>
