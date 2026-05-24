@@ -1,8 +1,8 @@
-<h1 align="center">Tomás Rivetta | Full Stack Developer</h1>
+<h1 align="center">Tomás Rivetta | Python Developer</h1>
 
 <p align="center">
-🚀 Backend-focused Developer | Java · Spring Boot · Python · Django · .NET  
-⚡ APIs REST · Microservices · Data Extraction · Automation  
+🐍 Python Developer · Automation · Data Processing · APIs  
+⚡ Backend · Web Scraping · Data Extraction · PostgreSQL  
 </p>
 
 <p align="center">
@@ -23,121 +23,112 @@
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-Desarrollador Full Stack, especializado en construir sistemas **escalables, mantenibles y orientados a negocio**.
+Soy desarrollador enfocado en el ecosistema Python, especializado en automatización, procesamiento de datos e integración de APIs.
 
-🔎 Me enfoco en:
-- APIs robustas y bien diseñadas
-- Arquitectura de microservicios
-- Integración de servicios externos (pagos, APIs)
-- Procesamiento y automatización de datos
+Actualmente trabajo desarrollando soluciones relacionadas con:
+- extracción y normalización de datos
+- automatización de workflows
+- procesamiento de documentos
+- integración de APIs
+- construcción de pipelines de información
 
-💡 Actualmente buscando oportunidades como **Backend / Full Stack Developer Jr**
+Me interesa construir herramientas útiles, mantenibles y orientadas a resolver problemas reales.
 
 ---
 
-## 🧠 Stack Tecnológico
+# ⚡ Tecnologías principales
 
-### ⚙️ Backend
+## 🐍 Python & Data
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  
-</p>
-
-### 🌐 CMS
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
-</p>
-
-### 🗄️ Bases de Datos
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
-### 🛠️ Herramientas & Testing
-- Docker  
-- Git / GitHub  
-- Postman  
-- Jira  
-- JUnit  
-- Mockito  
-- n8n  
+- APIs REST
+- Web Scraping
+- Data Extraction
+- Data Processing
+- Automation
+- JSON / XML
+- OCR & Document Processing
 
 ---
-## 💼 Algunos proyectos👨🏻‍💻
 
-<div id="proyectos">
+## ⚙️ Backend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
-<table align="left" >
-<tr border="none">
-<td width="25%" align="center">
-    <h2>Cuentas Claras</h2>
-    <p align="center">
-     <a href="https://cuentas-claras-dun.vercel.app/" title="Go to deploy">
-        <img align="center" width=100% src="https://i.ibb.co/nvXHYKP/Cuentas-Claras.png"   alt="IMAGE" /></a>
-      </p>
-    <p align="center">
-        <a href="https://cuentas-claras-dun.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="@TomasRivetta"  /></a>
-      <a href="https://github.com/TomasRivetta/CuentasClaras" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@TomasRivetta" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <h2>Pulso Fit</h2>
-    <p align="center">
-     <a href="https://pulso-fit.vercel.app/" title="Go to deploy">
-        <img align="center" width=100% src="https://i.ibb.co/1Y0yWTsC/pulso-Fit.png"   alt="IMAGE" /></a>
-      </p>
-    <p align="center">
-        <a href="https://pulso-fit.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="@TomasRivetta"  /></a>
-      <a href="https://github.com/TomasRivetta/PulsoFit" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@TomasRivetta" /></a>
-    </p>       
-</td>
+- Docker
+- Git & GitHub
+- Postman
+- Jira
+- Microservices
+- Backend Architecture
 
-<td width="25%" align="center">
-    <h2>Tip App</h2>
-    <p align="center">
-     <a href="https://tip-app-ten.vercel.app/" title="Go to deploy">
-        <img align="center" width=100% src="https://i.ibb.co/wVCNyDr/tip-App.png"   alt="IMAGE" /></a>
-      </p>
-    <p align="center">
-        <a href="https://propi-app.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="@TomasRivetta"  /></a>
-      <a href="https://github.com/TomasRivetta/PropiAPP" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@TomasRivetta" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+---
 
-## 📊 Métricas
+## 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+---
+
+# 💼 Proyectos Destacados
+
+## ⚽ Discord Bot - Mundial
+Bot desarrollado para Discord orientado al Mundial de fútbol.
+
+### Funcionalidades:
+- consulta de partidos
+- resultados en tiempo real
+- integración con APIs
+- automatización de comandos
+- manejo de eventos
+
+### Stack:
+Python · APIs · Backend · Discord
+
+---
+
+## 📄 Automatización & Procesamiento de Datos
+
+Desarrollo de herramientas orientadas a:
+- extracción de información
+- procesamiento de documentos
+- normalización de datos
+- automatización de workflows
+- estructuras OCDS
+
+### Tecnologías:
+Python · APIs · PostgreSQL · MongoDB
+
+---
+
+## 🌐 Full Stack Projects
+
+También desarrollé aplicaciones Full Stack utilizando:
+- React
+- Angular
+- Spring Boot
+- PostgreSQL
+- Docker
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomasRivetta&show_icons=true&theme=tokyonight" />
@@ -150,21 +141,11 @@ Desarrollador Full Stack, especializado en construir sistemas **escalables, mant
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 📚 Actualmente aprendiendo
 
-- Inteligencia Artificial aplicada  
-- Data Science & Analytics  
-- Automatización avanzada (n8n)  
-
----
-
-## 🤝 ¿Trabajamos juntos?
-
-Estoy abierto a oportunidades como:
-- Frontend Developer Jr
-- Backend Developer Jr  
-- Full Stack Developer
-- Data science 
-- Proyectos freelance / colaboraciones  
-
-📩 Contactame y lo vemos.
+- Data Engineering
+- Data Science
+- FastAPI
+- Automatización avanzada
+- Procesamiento de datos
+- Arquitectura backend en Python
